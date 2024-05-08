@@ -1,1 +1,48 @@
 
+{
+    "format": "ldp_vc",
+    "credential": {
+        "id": "did:rcw:d206404d-139f-46e7-9529-addbbc742124",
+        "type": [
+            "VerifiableCredential",
+            "LifeInsuranceCredential",
+            "InsuranceCredential"
+        ],
+        "proof": {
+            "type": "Ed25519Signature2020",
+            "created": "2024-05-08T10:46:41Z",
+            "proofValue": "z5NU8KPDQx5byfV7nDEvAcN22GX8swtGqyarFZrDmsGKPxLJRAAV4Wf6BVHVpRi8UeizP8VRe57XfTRdN82bX3spp",
+            "proofPurpose": "assertionMethod",
+            "verificationMethod": "did:web:likhitharl.github.io:vc:4e08c21f-c2ac-4c46-abf9-80c066d288dd#key-0"
+        },
+        "issuer": "did:web:likhitharl.github.io:vc:4e08c21f-c2ac-4c46-abf9-80c066d288dd",
+        "@context": [
+            "https://www.w3.org/2018/credentials/v1",
+            "https://holashchand.github.io/test_project/insurance-context.json",
+            {
+                "LifeInsuranceCredential": {
+                    "@id": "InsuranceCredential"
+                }
+            },
+            "https://w3id.org/security/suites/ed25519-2020/v1"
+        ],
+        "issuanceDate": "2024-05-08T10:46:40.913Z",
+        "expirationDate": "2024-06-07T10:46:40.882Z",
+        "credentialSubject": {
+            "id": "did:jwk:eyJrdHkiOiJFQyIsInVzZSI6InNpZyIsImNydiI6IlAtMjU2Iiwia2lkIjoiQy0tWkxFWHdxaHFYazFVZ0s5enc4aDlvRVpWNzRZMHR1Zmp1LXZmRjVUayIsIngiOiJPMHFwTjhWUHczYWp5cVJVX0ZZb1lGNFdILU5UVFpySXQwMllwMHNHSmZNIiwieSI6InFhRlhxNmVfMzhkWXEyanJzVlNvTmZVY0xIRkdsbWJCSmNJeV84aHh2dmMiLCJhbGciOiJFUzI1NiJ9",
+            "dob": "1993-12-24",
+            "email": "varmar@gmail.com",
+            "gender": "Male",
+            "mobile": "0123456789",
+            "benefits": [
+                "Critical Surgery",
+                "Full body checkup"
+            ],
+            "fullName": "Rohit Varma",
+            "policyName": "Start Insurance Gold Premium",
+            "policyNumber": "1234567",
+            "policyIssuedOn": "2023-04-20T20:48:17.684Z",
+            "policyExpiresOn": "2033-04-20T20:48:17.684Z"
+        }
+    }
+}
