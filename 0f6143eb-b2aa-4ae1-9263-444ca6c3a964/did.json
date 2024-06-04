@@ -1,0 +1,26 @@
+{
+        "@context": [
+            "https://www.w3.org/ns/did/v1"
+        ],
+        "id": "did:web:likhitharl.github.io:vc:0f6143eb-b2aa-4ae1-9263-444ca6c3a964",
+        "alsoKnownAs": [
+            "testUUID",
+            "test@gmail.com"
+        ],
+        "service": [],
+        "verificationMethod": [
+            {
+                "id": "did:web:likhitharl.github.io:vc:0f6143eb-b2aa-4ae1-9263-444ca6c3a964#key-0",
+                "type": "Ed25519VerificationKey2020",
+                "@context": "https://w3id.org/security/suites/ed25519-2020/v1",
+                "controller": "did:web:likhitharl.github.io:vc:0f6143eb-b2aa-4ae1-9263-444ca6c3a964",
+                "publicKeyMultibase": "z6MkqvFFqYEJeLSo5Z6yuNQZhEe7Rk4jdnATQTjxJTJ6bQBF"
+            }
+        ],
+        "authentication": [
+            "did:web:likhitharl.github.io:vc:0f6143eb-b2aa-4ae1-9263-444ca6c3a964#key-0"
+        ],
+        "assertionMethod": [
+            "did:web:likhitharl.github.io:vc:0f6143eb-b2aa-4ae1-9263-444ca6c3a964#key-0"
+        ]
+    }
