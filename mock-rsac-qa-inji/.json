@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/security/v2",
-  "id": "https://vharsh.github.io/DID/mock-rsac-qa-inji.json",
+  "id": "https://likhitharl.github.io/vc/mock-rsac-qa-inji.json",
   "assertionMethod": [
-    "https://vharsh.github.io/DID/mock-rsa-qa-inji.json"
+    "https://likhitharl.github.io/vc/mock-rsa-qa-inji.json"
   ]
 }
