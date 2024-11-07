@@ -1,0 +1,7 @@
+{
+    "@context": "https://w3id.org/security/v2",
+    "id": "https://likhitharl.github.io/DID/controller.json",
+    "assertionMethod": [
+        "https://likhitharl.github.io/DID/issuer.json"
+    ]
+}
