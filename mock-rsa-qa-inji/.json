@@ -1,7 +1,0 @@
-{
-  "@context": "https://w3id.org/security/v2",
-  "type": "RsaVerificationKey2018",
-  "id": "https://likhitharl.github.io/vc/mock-rsa-dev1.json",
-  "controller": "https://likhitharl.github.io/vc/mock-rsac-dev1.json",
-  "publicKeyPem": "-----BEGIN PUBLIC KEY-----\r\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7dmEFwPrnhDEaNDdyLba\r\ntL95bZnyIfBfC89IkOgJVdY/owbalu9EoeiU7YN/DqJkKNyY2JsW8Dt8azyBuauI\r\nDIjl51mm/TgiKkRkEZlJoGLbw2vE5Q5k5t2T+YpyMEHlzFUoYuZyHrP0KDqWb0NQ\r\n3B16Iox0f9g3zyIizy6Cs5ewydqnB8A/zFiSpRWBi0AjgOx78OXUGE0ddGfRRvqF\r\nUUHnvd9B2ISTEIJK91w7Ry1WP7N+P42CwYdV4mYJ09fQXVt9PAwT3EYZll7konZb\r\nlqpWCUGTGtzR1NeOOXS02M3Xyga+lGgecKIX4Z8GRb9PHwL0Gu0wp2NmozYUuQIE\r\n7wIDAQAB\r\n-----END PUBLIC KEY-----"
-}
