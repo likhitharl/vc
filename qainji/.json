@@ -1,0 +1,27 @@
+{
+    "@context": [
+        "https://www.w3.org/ns/did/v1"
+    ],
+    "id": "did:web:likhitharl.github.io:DID:qainji",
+    "alsoKnownAs": [
+        "testUUID",
+        "test@gmail.com"
+    ],
+    "service": [],
+    "verificationMethod": [
+        {
+            "id": "did:web:likhitharl.github.io:DID:qainji#key-0",
+            "type": "Ed25519VerificationKey2018",
+            "@context": "https://w3id.org/security/suites/ed25519-2018/v1",
+            "controller": "did:web:likhitharl.github.io:DID:qainji",
+            "publicKeyMultibase": "z6MkjXSWuWLsnWY9RYy9vU7LB6mxoBgm93wW6sZXq4BLtkBW"
+
+        }
+    ],
+    "authentication": [
+        "did:web:likhitharl.github.io:DID:qainji#key-0"
+    ],
+    "assertionMethod": [
+        "did:web:likhitharl.github.io:DID:qainji#key-0"
+    ]
+}
