@@ -5,7 +5,7 @@
     "type": "@type",
     "schema": "https://schema.org/",
     "SchoolCredential": {
-      "@id": "https://ckesiraju.github.io/ckesiraju/school-data.json#SchoolCredential"
+      "@id": "https://likhitharl.github.io/vc/school-data.json#SchoolCredential"
     },
     "student_id": "schema:text",
     "student_name": "schema:name",
