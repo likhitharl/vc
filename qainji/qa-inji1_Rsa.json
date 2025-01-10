@@ -1,0 +1,27 @@
+{
+  "assertionMethod": [
+    "did:web:mosip.github.io:inji-config:qa-inji1:landregistry#key-0"
+  ],
+  "service": [],
+  "id": "did:web:mosip.github.io:inji-config:qa-inji1:landregistry",
+  "verificationMethod": [
+    {
+      "controller": "did:web:mosip.github.io:inji-config:qa-inji1:landregistry",
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "e": "AQAB",
+        "n": "usfF3zped2sphzvBQ5cwwjot6ivWMkTg6OyB0DDtuUSJdQArrwWx1t44rcJlGoOvsxa_w_6E1f6DK5QxzGPy5NxJRUW15VzusLxc6Y75hmFEs-QUNG0YwkTWyu65gqk8GqYBbcR4DfsMf8Jf5_B9Spvv9cNlkprIeXrWo63y_PLx8NhEEGoSOLVDrej4ni0jcqqrUW5BNjDngGdfCpEQ-3NX2nKpJTdYuLnYEnlIfPqXhN05bFKd3xDDFYmPxB9kmcbaMUYW5G1ot5DKuJ5JdwFpDOb_zJyNg1zKZMIfy6qFVBMFy4r-Hi3hUXUtEYrGB3Q0dP1QmYdR4S9M9LdDtw"
+      },
+      "id": "did:web:mosip.github.io:inji-config:qa-inji1:landregistry#key-0",
+      "type": "JsonWebKey2020",
+      "@context": "https://w3id.org/security/suites/jws-2020/v1"
+    }
+  ],
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "alsoKnownAs": [],
+  "authentication": [
+    "did:web:mosip.github.io:inji-config:qa-inji1:landregistry#key-0"
+  ]
+}
