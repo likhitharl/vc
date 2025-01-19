@@ -1,0 +1,27 @@
+{
+  "assertionMethod": [
+    "did:web:likhitharl.github.io:vc:dockerrsa#key-0"
+  ],
+  "service": [],
+  "id": "did:web:likhitharl.github.io:vc:dockerrsa",
+  "verificationMethod": [
+    {
+      "controller": "did:web:likhitharl.github.io:vc:dockerrsa",
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "e": "AQAB",
+        "n": "3zkRpKdr42N40VxugED7rzV-YGsAZ1wnvrwNauAjrrx9V3UixxKxP8IzYeT_l8jQ4ZTV-p84PH2WHkSWRsqQOTElsrJ-UdNFKIA072jBRLJB6ZIKJ_lcyaWMbHYfJrgFQ6W-hffbiqlsVtHk_WSmzPLFx96tHEjt97m0cIhLznp8goGFSLedBieM9y5ZssXQ1MFb0USBiOkoqozaTuT4_KvUUVa2w_TTn5eOL9zNTseVDpcqVTh4IgBHCoIrP8GdroWRulJqFOGHqQDWvlCAhWAvMbLa3zmi6JyUFqvF2GuAoCaOUrOwJ_tCrMd8k3WBHQShGtJCmxnsSFd_y5bmKw"
+      },
+      "id": "did:web:likhitharl.github.io:vc:dockerrsa#key-0",
+      "type": "JsonWebKey2020",
+      "@context": "https://w3id.org/security/suites/jws-2020/v1"
+    }
+  ],
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "alsoKnownAs": [],
+  "authentication": [
+    "did:web:likhitharl.github.io:vc:dockerrsa#key-0"
+  ]
+}
