@@ -6,11 +6,16 @@
   "id": "did:web:likhitharl.github.io:vc:docked2020",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkpagUR6ZhytCySmQABB8tfr1KGqR5PF9st5E767MMVwjX",
       "controller": "did:web:likhitharl.github.io:vc:docked2020",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "secp256k1",
+        "x": "ebzqpE8k5Bkedv1Wrr2V_z5YnOkqOSXV7pMEXhygvng",
+        "y": "j_t3U_fDXU9B482CXWgZhfmt8kuKTkJtYw2DjF8wBdw"
+      },
       "id": "did:web:likhitharl.github.io:vc:docked2020#key-0",
-      "type": "Ed25519VerificationKey2020",
-      "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
+      "type": "EcdsaSecp256k1VerificationKey2019",
+      "@context": "https://w3id.org/security/v1"
     }
   ],
   "@context": [
