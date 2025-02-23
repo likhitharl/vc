@@ -8,14 +8,13 @@
     {
       "controller": "did:web:likhitharl.github.io:vc:dockerrsa",
       "publicKeyJwk": {
-        "kty": "EC",
-        "crv": "secp256k1",
-        "x": "MKH-nlyN9anacQRYPXzBHCBGS5K1JKyop5aCcFtLYlM",
-        "y": "gCWXO4bigNVIg-oN5HBIMrXq832_wEMcr4MkkXqApDY"
+        "kty": "RSA",
+        "e": "AQAB",
+        "n": "s8XYu1KNiI55BLKCN-XIoSdL3jzS7kQxkYNC2C3FovJ6g22Dr4HGuCsgeX2T-nhp28FERnDLj59N6chenaaMv3BOpE_dDT9CmI5yMIfS1y5D9-n5Jgryar_8uKI-tdyNNd_bkfFpR8kZFVZ8EsQ6-ze_vG2ZgyZhpNuehH3gNdmmyRZ7UEJ_ZndSdBQYRF7ILTxTiICkAsyRnpZYMq00t7Qz_OWiULsUqc8fxRXE6sGuImpskqSMuj_sIKY8a-EeW7FTiEecUUQQpku2FOWuG7YAeSvsAdutcy8enc0itch0d7wF_vpvXBzNvlq-MiF481i22YWm-vSyues9d5A9HQ"
       },
       "id": "did:web:likhitharl.github.io:vc:dockerrsa#key-0",
-      "type": "EcdsaSecp256k1VerificationKey2019",
-      "@context": "https://w3id.org/security/v1"
+      "type": "JsonWebKey2020",
+      "@context": "https://w3id.org/security/suites/jws-2020/v1"
     }
   ],
   "@context": [
