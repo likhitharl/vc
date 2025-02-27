@@ -8,14 +8,13 @@
     {
       "controller": "did:web:likhitharl.github.io:vc:qa-inji1",
       "publicKeyJwk": {
-        "kty": "EC",
-        "crv": "secp256k1",
-        "x": "fkuYBA7pUh-3SRCcna8yHJCq8DHPzbYNxjrMrPxNw18",
-        "y": "2Xm8WgpHPmPIQnEkvk-H7pjLMT2BZsP0U_si2v7mQqs"
+        "kty": "RSA",
+        "e": "AQAB",
+        "n": "sjh-1oHu3KM33qKp-XtYSUSvKEGY_8L3pbvlyZ3FE2bgdDwObcQdRm8UQ_sMDi8ItliJ65W_-vvaxHS400mCPu-SgKZtzCEaG2n9x0DZWYESzM7iYjsiCJhKdC5vD_ceFxMxMJNqIeypI1zNRhE5-zERdpn7tdbSkp1BH9bGekqZP76yf3hCdSbjkyDxvWfWykseFMRQC4_XIsqWcxlLDJacm92VP2Pl7ToyuLZ_qJ8fvl4Pi1_cYJf_iPue7kTFcnR3mXmVSbMg-9iQ639GuEKGna_pNZev2fM12teuLD3iL2LKOccDh7dCw9EKmaUZqt7KnDmr_p_JKsgXHwVESw"
       },
       "id": "did:web:likhitharl.github.io:vc:qa-inji1#key-0",
-      "type": "EcdsaSecp256k1VerificationKey2019",
-      "@context": "https://w3id.org/security/v1"
+      "type": "JsonWebKey2020",
+      "@context": "https://w3id.org/security/suites/jws-2020/v1"
     }
   ],
   "@context": [
