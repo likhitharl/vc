@@ -10,8 +10,8 @@
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "secp256k1",
-        "x": "fkuYBA7pUh-3SRCcna8yHJCq8DHPzbYNxjrMrPxNw18",
-        "y": "2Xm8WgpHPmPIQnEkvk-H7pjLMT2BZsP0U_si2v7mQqs"
+        "x": "oSC1qRFsjhHCiDLx2XJYcNpvcSvPFcqwklG5m-VdXC8",
+        "y": "lxtMfzzXR3U4E2dPAmSM0ABWz7KLT_4IfHbc8VOG-S0"
       },
       "id": "did:web:likhitharl.github.io:vc:qa-inji1#key-0",
       "type": "EcdsaSecp256k1VerificationKey2019",
