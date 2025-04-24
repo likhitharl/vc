@@ -6,7 +6,7 @@
   "id": "did:web:likhitharl.github.io:vc:qainji",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkwGVpdjrudnEtWNcMTsDEtER5DsT9ubbJsH8UyBKPrE4H",
+      "publicKeyMultibase": "z6MkfXXo3S7DMt9oNF1zssAii65nAD6D5Pkb2KEEd3nn286q",
       "controller": "did:web:likhitharl.github.io:vc:qainji",
       "id": "did:web:likhitharl.github.io:vc:qainji#key-0",
       "type": "Ed25519VerificationKey2020",
