@@ -6,9 +6,16 @@
   "id": "did:web:likhitharl.github.io:vc:docker",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkgYRPPUxorSmWC7NmiwZzZdmAEbnuCHxfot4KWjDMUPj6",
+      "publicKeyMultibase": "zDnaef7CS9iruM7TGLwnEZnLxrFLFYfCSJAtTPXprH4LRE687",
       "controller": "did:web:likhitharl.github.io:vc:docker",
-      "id": "did:web:likhitharl.github.io:vc:docker#I4u_D9IVh1Mfm6E2wfEfbHzfcDHGddN1phicPtngqgE",
+      "id": "did:web:likhitharl.github.io:vc:docker#LPp63RKUZMosm52lgFt9RkJ9lgvdF0cBjsfPWXSuojA",
+      "type": "EcdsaSecp256r1VerificationKey2019",
+      "@context": "https://w3id.org/security/suites/ecdsa-2019/v1"
+    },
+    {
+      "publicKeyMultibase": "z6MkrBXjKPE9xyWWKZethfx1nG458UbUthXUzVCHxQFc7ZNs",
+      "controller": "did:web:likhitharl.github.io:vc:docker",
+      "id": "did:web:likhitharl.github.io:vc:docker#NGCw--Vm5_5-LHdRtqwaDIfDCF9mHYbrdxwk12k4lsc",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
