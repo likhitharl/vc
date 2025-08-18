@@ -6,14 +6,14 @@
   "id": "did:web:likhitharl.github.io:vc:dockerrsa",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "zDnaeqyxJTAud4JzHS4wjKUUCZt16ALiKeFPfcaEuPc7g9a9T",
+      "publicKeyMultibase": "zDnaef7CS9iruM7TGLwnEZnLxrFLFYfCSJAtTPXprH4LRE687",
       "controller": "did:web:likhitharl.github.io:vc:dockerrsa",
       "id": "did:web:likhitharl.github.io:vc:dockerrsa#LPp63RKUZMosm52lgFt9RkJ9lgvdF0cBjsfPWXSuojA",
       "type": "EcdsaSecp256r1VerificationKey2019",
       "@context": "https://w3id.org/security/suites/ecdsa-2019/v1"
     },
     {
-      "publicKeyMultibase": "z6MknGtSKJZviYXbZ9oHzkmjPKWCVBuvUMK1pfyuSjzzcQd7",
+      "publicKeyMultibase": "z6MkrBXjKPE9xyWWKZethfx1nG458UbUthXUzVCHxQFc7ZNs",
       "controller": "did:web:likhitharl.github.io:vc:dockerrsa",
       "id": "did:web:likhitharl.github.io:vc:dockerrsa#NGCw--Vm5_5-LHdRtqwaDIfDCF9mHYbrdxwk12k4lsc",
       "type": "Ed25519VerificationKey2020",
