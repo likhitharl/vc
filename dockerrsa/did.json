@@ -6,6 +6,17 @@
   "id": "did:web:likhitharl.github.io:vc:dockerrsa",
   "verificationMethod": [
     {
+      "controller": "did:web:likhitharl.github.io:vc:dockerrsa",
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "e": "AQAB",
+        "n": "ycru04PlAHV9ivyPKCGJy1-NCQRdQhOpHrbplWhEPvqEz7VeWg9PV4w6PvG6gFmcCwrFcMvhOSBFqMw_qyXxVXjtqLemEbuEGDkfPzFu94SSN_5oZN636tUBX_bbwSapi_O9osaPt04yDPypn8IsfQfRySaK1q1OoESELKCxOxFTFuKrFAbDgf-IQeCV7yRI85Sn4PSN83q79XhsA6gpbqitwxntVSb2aM983AfpU1S2qE2_HCg0gb_mx-u-UD3pbuqilWzKwSSfwpgCj764W81bUJIzqOoRT7pNYId-GJqg6OP--xR-OX9u2St8mJB0VAK78YYLDuyNW0VfKpbRAw"
+      },
+      "id": "did:web:likhitharl.github.io:vc:dockerrsa#iG5PJK4w0bPZ9tlm4SZHKp0MeD6op79iTvBPlWdDbeY",
+      "type": "RsaSignaturekey2018",
+      "@context": "https://w3id.org/security/suites/jws-2020/v1"
+    },
+    {
       "publicKeyMultibase": "zDnaef7CS9iruM7TGLwnEZnLxrFLFYfCSJAtTPXprH4LRE687",
       "controller": "did:web:likhitharl.github.io:vc:dockerrsa",
       "id": "did:web:likhitharl.github.io:vc:dockerrsa#LPp63RKUZMosm52lgFt9RkJ9lgvdF0cBjsfPWXSuojA",
