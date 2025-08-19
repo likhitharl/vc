@@ -8,7 +8,7 @@
       "id": "did:web:likhitharl.github.io:vc:dockerrsa#DV8zH1lGAxh2owB3UZef-6BCzarqVc5soLIwon5vxow",
       "type": "RsaVerificationKey2018",
       "controller": "did:web:likhitharl.github.io:vc:dockerrsa",
-      "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A...<full PEM here>...\n-----END PUBLIC KEY-----"
+      "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA470fuPW65PlBEloenKyg\ndW2HE8St58LLNTEw0RGOeX5LKvxOaD96k+4jD5BRx3iGjiIf7uyrv1qk9pY5/1lp\nfArO9pxdkQEec3Wz0kuGo1g0ZIjRAkmLz5Kj3pqEVngSBZh0rWIo6vMD2VgIh+Aa\n4PWvbGv2j7ExQWIRiGZVXIJvc47EXsRAJTY5sGfDVXLKZLjjjPM2ciweJXA1uaUo\nONifpwcuiL/T6au/4+5xjkTE6sdp76595tiO6GtIkPEeWGF08ihHIyb415p7Sz5y\n1yPdLbm4Mi6GJsGmdenZNpA59TUG03TbSHNnUkvd1smqz1wBozhEf55gPtmzWirg\n4wIDAQAB\n-----END PUBLIC KEY-----"
     }
   ],
   "assertionMethod": [
