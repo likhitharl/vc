@@ -6,7 +6,7 @@
   "id": "did:web:likhitharl.github.io:vc:docked2020",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkntoZjsGb1r6Q5xJ6k5sGne3bANGJ7UGFqo5AmFcVTb7H",
+      "publicKeyMultibase": "z6Mkwe6KPdx3TDk8v6eVdAqYXV3Vhfb8javdejJBQQz2zY6a",
       "controller": "did:web:likhitharl.github.io:vc:docked2020",
       "id": "did:web:likhitharl.github.io:vc:docked2020#key-0",
       "type": "Ed25519VerificationKey2020",
