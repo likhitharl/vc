@@ -1,14 +1,14 @@
 {
   "assertionMethod": [
-    "did:web:likhitharl.github.io:vc:docked2020#key-0"
+    "did:web:likhitharl.github.io:vc:docked2020"
   ],
   "service": [],
   "id": "did:web:likhitharl.github.io:vc:docked2020",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkwe6KPdx3TDk8v6eVdAqYXV3Vhfb8javdejJBQQz2zY6a",
+      "publicKeyMultibase": "z6Mkn61goWkaAsnSSzQod7KXWfWFFRnRMMqcxYeqTTJhfTyw",
       "controller": "did:web:likhitharl.github.io:vc:docked2020",
-      "id": "did:web:likhitharl.github.io:vc:docked2020#key-0",
+      "id": "did:web:likhitharl.github.io:vc:docked2020#8D6YDA_iBLGbZ5pEytaE0V81nbptf5O1_ebVUamGlck",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
@@ -18,6 +18,6 @@
   ],
   "alsoKnownAs": [],
   "authentication": [
-    "did:web:likhitharl.github.io:vc:docked2020#key-0"
+    "did:web:likhitharl.github.io:vc:docked2020"
   ]
 }
