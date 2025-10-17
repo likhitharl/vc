@@ -1,18 +1,23 @@
 {
-  "@context": [
-    "https://www.w3.org/ns/did/v1"
-  ],
-  "id": "did:web:likhitharl.github.io:vc:dockerrsa",
-  "verificationMethod": [
-    {
-      "id": "did:web:likhitharl.github.io:vc:dockerrsa#DV8zH1lGAxh2owB3UZef-6BCzarqVc5soLIwon5vxow",
-      "type": "RsaVerificationKey2018",
-      "controller": "did:web:likhitharl.github.io:vc:dockerrsa",
-      "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA470fuPW65PlBEloenKyg\ndW2HE8St58LLNTEw0RGOeX5LKvxOaD96k+4jD5BRx3iGjiIf7uyrv1qk9pY5/1lp\nfArO9pxdkQEec3Wz0kuGo1g0ZIjRAkmLz5Kj3pqEVngSBZh0rWIo6vMD2VgIh+Aa\n4PWvbGv2j7ExQWIRiGZVXIJvc47EXsRAJTY5sGfDVXLKZLjjjPM2ciweJXA1uaUo\nONifpwcuiL/T6au/4+5xjkTE6sdp76595tiO6GtIkPEeWGF08ihHIyb415p7Sz5y\n1yPdLbm4Mi6GJsGmdenZNpA59TUG03TbSHNnUkvd1smqz1wBozhEf55gPtmzWirg\n4wIDAQAB\n-----END PUBLIC KEY-----"
-    }
-  ],
   "assertionMethod": [
     "did:web:likhitharl.github.io:vc:dockerrsa"
   ],
-  "service": []
+  "service": [],
+  "id": "did:web:likhitharl.github.io:vc:dockerrsa",
+  "verificationMethod": [
+    {
+      "publicKeyMultibase": "z6MkqpvzTEdqiAT1nAS22TntfmSgSAwYB4huebJQCYQ3PhAz",
+      "controller": "did:web:likhitharl.github.io:vc:dockerrsa",
+      "id": "did:web:likhitharl.github.io:vc:dockerrsa#kMVyZTvx8G0h1YZnUW4OJtr2LRVZUuGl8pQuJl3ymXI",
+      "type": "Ed25519VerificationKey2020",
+      "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
+    }
+  ],
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "alsoKnownAs": [],
+  "authentication": [
+    "did:web:likhitharl.github.io:vc:dockerrsa"
+  ]
 }
