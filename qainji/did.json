@@ -6,14 +6,14 @@
   "id": "did:web:likhitharl.github.io:vc:qainji",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "zDnaer7Q7G8q6DdgysdU85Kc9wbJaqQRXgm4BrpaT2oXyu1NF",
+      "publicKeyMultibase": "zDnaeTE1DauPMGn8ytkkmx32nvZqxx1YBHELait7cjkUiyUXx",
       "controller": "did:web:likhitharl.github.io:vc:qainji",
       "id": "did:web:likhitharl.github.io:vc:qainji#gIH3c45o3X9jEEv2XdrIwrRbmWb_DhNkpCtoM9sxQck",
       "type": "EcdsaSecp256r1VerificationKey2019",
       "@context": "https://w3id.org/security/suites/ecdsa-2019/v1"
     },
     {
-      "publicKeyMultibase": "z6MkqjEudpeLczWdyDPXaAMRrpVbb6xHhAoHBCfJ16zJ3HvE",
+      "publicKeyMultibase": "z6MkvpgCmEAMM68owqnRohnnHJn8YcqrXr51bRdB77NqAT1a",
       "controller": "did:web:likhitharl.github.io:vc:qainji",
       "id": "did:web:likhitharl.github.io:vc:qainji#bBZldVfljMgULUgBv4Bn8M5r15ganwTQMa_HqTqWEH8",
       "type": "Ed25519VerificationKey2020",
