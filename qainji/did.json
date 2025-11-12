@@ -1,21 +1,21 @@
 {
   "assertionMethod": [
-    "did:web:mosip.github.io:inji-config:qa-inji1:landregistry"
+    "did:web:likhitharl.github.io:vc:qainji"
   ],
   "service": [],
-  "id": "did:web:mosip.github.io:inji-config:qa-inji1:landregistry",
+  "id": "did:web:likhitharl.github.io:vc:qainji",
   "verificationMethod": [
     {
       "publicKeyMultibase": "zDnaer7Q7G8q6DdgysdU85Kc9wbJaqQRXgm4BrpaT2oXyu1NF",
-      "controller": "did:web:mosip.github.io:inji-config:qa-inji1:landregistry",
-      "id": "did:web:mosip.github.io:inji-config:qa-inji1:landregistry#gIH3c45o3X9jEEv2XdrIwrRbmWb_DhNkpCtoM9sxQck",
+      "controller": "did:web:likhitharl.github.io:vc:qainji",
+      "id": "did:web:likhitharl.github.io:vc:qainji#gIH3c45o3X9jEEv2XdrIwrRbmWb_DhNkpCtoM9sxQck",
       "type": "EcdsaSecp256r1VerificationKey2019",
       "@context": "https://w3id.org/security/suites/ecdsa-2019/v1"
     },
     {
       "publicKeyMultibase": "z6MkqjEudpeLczWdyDPXaAMRrpVbb6xHhAoHBCfJ16zJ3HvE",
-      "controller": "did:web:mosip.github.io:inji-config:qa-inji1:landregistry",
-      "id": "did:web:mosip.github.io:inji-config:qa-inji1:landregistry#bBZldVfljMgULUgBv4Bn8M5r15ganwTQMa_HqTqWEH8",
+      "controller": "did:web:likhitharl.github.io:vc:qainji",
+      "id": "did:web:likhitharl.github.io:vc:qainji#bBZldVfljMgULUgBv4Bn8M5r15ganwTQMa_HqTqWEH8",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
@@ -25,6 +25,6 @@
   ],
   "alsoKnownAs": [],
   "authentication": [
-    "did:web:mosip.github.io:inji-config:qa-inji1:landregistry"
+    "did:web:likhitharl.github.io:vc:qainji"
   ]
 }
