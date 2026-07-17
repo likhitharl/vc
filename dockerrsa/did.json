@@ -6,7 +6,7 @@
   "id": "did:web:8398-2405-201-1029-3025-e142-9ad3-e1f2-f543.ngrok-free.app",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MknvoFXCKkPRcaBV5wwmM11doeGdjq7h7jqdYqk12eiwir",
+      "publicKeyMultibase": "z6MkjqY2xzvmhsW4oWjKxV42ykP8RnA6Dc1PTuk4W856RLZj",
       "controller": "did:web:8398-2405-201-1029-3025-e142-9ad3-e1f2-f543.ngrok-free.app",
       "id": "did:web:8398-2405-201-1029-3025-e142-9ad3-e1f2-f543.ngrok-free.app#XBx0lWe6Qdgbp6Mvz-SgdzVOe7yCtMdhPC0qujJlLCI",
       "type": "Ed25519VerificationKey2020"
