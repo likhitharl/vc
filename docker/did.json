@@ -6,9 +6,9 @@
   "id": "did:web:likhitharl.github.io:vc:docker",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkjqY2xzvmhsW4oWjKxV42ykP8RnA6Dc1PTuk4W856RLZj",
+      "publicKeyMultibase": "z6MkoZwBCbPsdBmN5vSGSvmetw9DtAh8eHsyrDnVN8mAmKcc",
       "controller": "did:web:likhitharl.github.io:vc:docker",
-      "id": "did:web:likhitharl.github.io:vc:docker#XBx0lWe6Qdgbp6Mvz-SgdzVOe7yCtMdhPC0qujJlLCI",
+      "id": "did:web:likhitharl.github.io:vc:docker#5S4bItPixxJQ7MBmkMftYeMIFmlmvKe4aZSQNavkwZg",
       "type": "Ed25519VerificationKey2020"
     }
   ],
